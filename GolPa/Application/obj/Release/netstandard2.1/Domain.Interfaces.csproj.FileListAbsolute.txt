@@ -1,0 +1,12 @@
+E:\Projects\Backend\GolPa\Application\bin\Release\netstandard2.1\Domain.Interfaces.deps.json
+E:\Projects\Backend\GolPa\Application\bin\Release\netstandard2.1\Domain.Interfaces.dll
+E:\Projects\Backend\GolPa\Application\bin\Release\netstandard2.1\Domain.Interfaces.pdb
+E:\Projects\Backend\GolPa\Application\bin\Release\netstandard2.1\Domain.Entities.dll
+E:\Projects\Backend\GolPa\Application\bin\Release\netstandard2.1\Domain.Entities.pdb
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.csprojAssemblyReference.cache
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.AssemblyInfoInputs.cache
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.AssemblyInfo.cs
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.csproj.CoreCompileInputs.cache
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.csproj.CopyComplete
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.dll
+E:\Projects\Backend\GolPa\Application\obj\Release\netstandard2.1\Domain.Interfaces.pdb

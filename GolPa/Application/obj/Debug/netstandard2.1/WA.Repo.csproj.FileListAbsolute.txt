@@ -1,0 +1,8 @@
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.1\WA.Repo.deps.json
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.1\WA.Repo.dll
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.1\WA.Repo.pdb
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.1\WA.Repo.csprojAssemblyReference.cache
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.1\WA.Repo.AssemblyInfoInputs.cache
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.1\WA.Repo.AssemblyInfo.cs
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.1\WA.Repo.dll
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.1\WA.Repo.pdb

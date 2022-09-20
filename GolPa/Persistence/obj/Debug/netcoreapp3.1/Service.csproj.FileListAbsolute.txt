@@ -1,0 +1,9 @@
+E:\Projects\Backend\GolPa\Persistence\bin\Debug\netcoreapp3.1\Service.deps.json
+E:\Projects\Backend\GolPa\Persistence\bin\Debug\netcoreapp3.1\Service.dll
+E:\Projects\Backend\GolPa\Persistence\bin\Debug\netcoreapp3.1\Service.pdb
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.dll
+E:\Projects\Backend\GolPa\Persistence\obj\Debug\netcoreapp3.1\Service.pdb

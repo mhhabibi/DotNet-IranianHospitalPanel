@@ -1,0 +1,8 @@
+E:\Projects\Backend\GolPa\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Projects\Backend\GolPa\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Projects\Backend\GolPa\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Projects\Backend\GolPa\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Projects\Backend\GolPa\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Projects\Backend\GolPa\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Backend\GolPa\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Projects\Backend\GolPa\Domain\obj\Debug\netstandard2.1\Domain.pdb

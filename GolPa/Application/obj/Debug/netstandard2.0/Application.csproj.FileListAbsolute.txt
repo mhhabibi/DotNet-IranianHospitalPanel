@@ -1,0 +1,9 @@
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.0\Application.deps.json
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.0\Application.dll
+E:\Projects\Backend\GolPa\Application\bin\Debug\netstandard2.0\Application.pdb
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.dll
+E:\Projects\Backend\GolPa\Application\obj\Debug\netstandard2.0\Application.pdb

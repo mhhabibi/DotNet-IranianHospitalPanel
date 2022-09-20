@@ -1,0 +1,518 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj",
+        "projectName": "Domain.Interfaces",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj",
+        "projectName": "Domain.Entities",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectName": "Infrastructure.Data",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\Services.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\Services.ApplicationServices.csproj",
+        "projectName": "Services.ApplicationServices",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\Services.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\Services.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\Services.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "MD.PersianDateTime.Core": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\Services.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\Services.Interfaces.csproj",
+        "projectName": "Services.Interfaces",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\Services.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Services.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Application\\Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Artin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Domain\\Domain.Entities.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              },
+              "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\Services.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\Artin\\Desktop\\Golpayegani\\Backend\\GolPa\\Persistence\\Services.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
